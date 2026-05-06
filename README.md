@@ -34,15 +34,15 @@ Sequential hardware control
 Educational demonstrations
 
 # Procedure
-Open LabVIEW.
-Create a new VI.
-Go to the Block Diagram.
-From the Structures Palette, select Flat Sequence Structure.
-Place the structure on the block diagram.
-Add multiple frames using right-click → Add Frame After.
-Insert operations or indicators in different frames.
-Connect controls and indicators properly.
-Run the VI to observe sequential execution.
+1. Open LabVIEW.
+2. Create a new VI.
+3. Go to the Block Diagram.
+4. From the Structures Palette, select Flat Sequence Structure.
+5. Place the structure on the block diagram.
+6. Add multiple frames using right-click → Add Frame After.
+7. Insert operations or indicators in different frames.
+8. Connect controls and indicators properly.
+9. Run the VI to observe sequential execution.
 
 # Working
 Frame 0 executes first.
