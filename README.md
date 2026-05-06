@@ -26,8 +26,11 @@ Useful for beginner-level applications
 
 # Applications
 Step-by-step calculations
+
 Data acquisition processes
+
 Sequential hardware control
+
 Educational demonstrations
 
 # Procedure
@@ -40,7 +43,8 @@ Add multiple frames using right-click → Add Frame After.
 Insert operations or indicators in different frames.
 Connect controls and indicators properly.
 Run the VI to observe sequential execution.
-Working
+
+# Working
 Frame 0 executes first.
 After completion, Frame 1 executes.
 The process continues sequentially until the final frame executes.
@@ -49,12 +53,18 @@ This guarantees controlled execution of operations.
 
 # Advantages
 Simple sequential programming
+
 Better execution control
+
 Useful for timing-based tasks
+
 Easy visualization of execution order
-Disadvantages
+
+# Disadvantages
 Reduces parallel execution capability
+
 Can make programs lengthy if overused
+
 Not recommended for large complex applications
 # Result
 
