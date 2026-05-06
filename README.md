@@ -25,13 +25,11 @@ Easy to understand and debug
 Useful for beginner-level applications
 
 # Applications
-Step-by-step calculations
 
-Data acquisition processes
-
-Sequential hardware control
-
-Educational demonstrations
+1. Step-by-step calculations
+2. Data acquisition processes
+3. Sequential hardware control
+4. Educational demonstrations
 
 # Procedure
 1. Open LabVIEW.
@@ -45,27 +43,24 @@ Educational demonstrations
 9. Run the VI to observe sequential execution.
 
 # Working
-Frame 0 executes first.
-After completion, Frame 1 executes.
-The process continues sequentially until the final frame executes.
-
-This guarantees controlled execution of operations.
+1. Frame 0 executes first.
+2. After completion, Frame 1 executes.
+3. The process continues sequentially until the final frame executes.
+4. This guarantees controlled execution of operations.
 
 # Advantages
-Simple sequential programming
 
-Better execution control
-
-Useful for timing-based tasks
-
-Easy visualization of execution order
+1. Simple sequential programming
+2. Better execution control
+3. Useful for timing-based tasks
+4. Easy visualization of execution order
 
 # Disadvantages
-Reduces parallel execution capability
 
-Can make programs lengthy if overused
-
-Not recommended for large complex applications
+1. Reduces parallel execution capability
+2. Can make programs lengthy if overused
+3. Not recommended for large complex applications
+   
 # Result
 
 The Flat Sequence Structure was successfully implemented in LabVIEW, and the operations executed sequentially in the desired order.
